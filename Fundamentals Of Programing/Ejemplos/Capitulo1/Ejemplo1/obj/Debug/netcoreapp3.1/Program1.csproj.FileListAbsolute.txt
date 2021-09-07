@@ -1,0 +1,13 @@
+C:\Libros\Fundamentals Of Programing\Ejemplos\Program1\bin\Debug\netcoreapp3.1\Program1.exe
+C:\Libros\Fundamentals Of Programing\Ejemplos\Program1\bin\Debug\netcoreapp3.1\Program1.deps.json
+C:\Libros\Fundamentals Of Programing\Ejemplos\Program1\bin\Debug\netcoreapp3.1\Program1.runtimeconfig.json
+C:\Libros\Fundamentals Of Programing\Ejemplos\Program1\bin\Debug\netcoreapp3.1\Program1.runtimeconfig.dev.json
+C:\Libros\Fundamentals Of Programing\Ejemplos\Program1\bin\Debug\netcoreapp3.1\Program1.dll
+C:\Libros\Fundamentals Of Programing\Ejemplos\Program1\bin\Debug\netcoreapp3.1\Program1.pdb
+C:\Libros\Fundamentals Of Programing\Ejemplos\Program1\obj\Debug\netcoreapp3.1\Program1.csproj.AssemblyReference.cache
+C:\Libros\Fundamentals Of Programing\Ejemplos\Program1\obj\Debug\netcoreapp3.1\Program1.AssemblyInfoInputs.cache
+C:\Libros\Fundamentals Of Programing\Ejemplos\Program1\obj\Debug\netcoreapp3.1\Program1.AssemblyInfo.cs
+C:\Libros\Fundamentals Of Programing\Ejemplos\Program1\obj\Debug\netcoreapp3.1\Program1.csproj.CoreCompileInputs.cache
+C:\Libros\Fundamentals Of Programing\Ejemplos\Program1\obj\Debug\netcoreapp3.1\Program1.dll
+C:\Libros\Fundamentals Of Programing\Ejemplos\Program1\obj\Debug\netcoreapp3.1\Program1.pdb
+C:\Libros\Fundamentals Of Programing\Ejemplos\Program1\obj\Debug\netcoreapp3.1\Program1.genruntimeconfig.cache
