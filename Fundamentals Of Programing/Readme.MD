@@ -1,7 +1,8 @@
 ME TOCA LA PAGINA 20
 ###
 # Fundamentals Of Programming
-# Capítulo 1
+# Capítulo 1. Introduction to Programming 
+
 ## File Prologue
 Todos los programas que codifiques, deberían tener un file prologue. La estructura es la siguiente: 
 ```C#
@@ -56,4 +57,25 @@ Es igual para los namespace, al escribir código debemos especificar que namespa
 * UML or Unified Modeling Language es usado por los programadores para crear un modelo visual del problema a resolver.
 * Un IDE es una herramienta de desarrollo de software que tiene todo en un solo paquete. Tiene un editor de código, un compilador, herramientas para hace debbug, y más.
 * La memoria de la computadora está dividida en 4 segmentos: segmento de código, segmento de datos, heap, stack.
+
+# Capítulo 2. Program Desing
+Por lo general, las personas nuevas en la programación, siempre tienden a que cuando tienen que realizar un programa, van directo al código y no debería ser así.
+
+Un buen programador se toma el tiempo necesario para averiguar a que se quiere llegar y pensar como resolver el problema, esto hace que se ahorre mucho tiempo y esfuerzo.
+
+## Creando un algoritmo
+Un algoritmo es una solución paso a paso de un problema. 
+
+Como empezar:
+
+* Definir que es lo que se quiere lograr
+* Determinar los datos de entrada necesarios. Estos pueden venir de:
+    
+    * Escritos por el usuario
+    * De archivos 
+    * De base de datos
+    * Entre otros
+
+* Determinar cuales son las salidas necesarias del programa
+* Hacer una lista paso a paso de como transformar las entradas en salidas, detallando todos los procesos necesarios para lograr esto. 
 
