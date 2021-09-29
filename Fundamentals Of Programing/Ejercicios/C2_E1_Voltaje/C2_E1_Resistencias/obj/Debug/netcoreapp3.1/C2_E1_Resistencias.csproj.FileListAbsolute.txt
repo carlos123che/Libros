@@ -1,0 +1,13 @@
+C:\Users\car12\source\repos\C2_E1_Resistencias\bin\Debug\netcoreapp3.1\C2_E1_Resistencias.exe
+C:\Users\car12\source\repos\C2_E1_Resistencias\bin\Debug\netcoreapp3.1\C2_E1_Resistencias.deps.json
+C:\Users\car12\source\repos\C2_E1_Resistencias\bin\Debug\netcoreapp3.1\C2_E1_Resistencias.runtimeconfig.json
+C:\Users\car12\source\repos\C2_E1_Resistencias\bin\Debug\netcoreapp3.1\C2_E1_Resistencias.runtimeconfig.dev.json
+C:\Users\car12\source\repos\C2_E1_Resistencias\bin\Debug\netcoreapp3.1\C2_E1_Resistencias.dll
+C:\Users\car12\source\repos\C2_E1_Resistencias\bin\Debug\netcoreapp3.1\C2_E1_Resistencias.pdb
+C:\Users\car12\source\repos\C2_E1_Resistencias\obj\Debug\netcoreapp3.1\C2_E1_Resistencias.csproj.AssemblyReference.cache
+C:\Users\car12\source\repos\C2_E1_Resistencias\obj\Debug\netcoreapp3.1\C2_E1_Resistencias.AssemblyInfoInputs.cache
+C:\Users\car12\source\repos\C2_E1_Resistencias\obj\Debug\netcoreapp3.1\C2_E1_Resistencias.AssemblyInfo.cs
+C:\Users\car12\source\repos\C2_E1_Resistencias\obj\Debug\netcoreapp3.1\C2_E1_Resistencias.csproj.CoreCompileInputs.cache
+C:\Users\car12\source\repos\C2_E1_Resistencias\obj\Debug\netcoreapp3.1\C2_E1_Resistencias.dll
+C:\Users\car12\source\repos\C2_E1_Resistencias\obj\Debug\netcoreapp3.1\C2_E1_Resistencias.pdb
+C:\Users\car12\source\repos\C2_E1_Resistencias\obj\Debug\netcoreapp3.1\C2_E1_Resistencias.genruntimeconfig.cache

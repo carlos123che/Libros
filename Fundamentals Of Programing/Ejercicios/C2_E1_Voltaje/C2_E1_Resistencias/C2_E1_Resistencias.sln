@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C2_E1_Resistencias", "C2_E1_Resistencias.csproj", "{54099B56-F296-4540-B7ED-FD25A28206BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54099B56-F296-4540-B7ED-FD25A28206BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54099B56-F296-4540-B7ED-FD25A28206BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54099B56-F296-4540-B7ED-FD25A28206BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54099B56-F296-4540-B7ED-FD25A28206BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47E75BDF-A463-41FB-9298-12E5D89F08C7}
+	EndGlobalSection
+EndGlobal

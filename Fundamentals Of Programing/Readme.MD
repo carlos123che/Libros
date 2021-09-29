@@ -1,4 +1,4 @@
-ME TOCA LA PAGINA 20
+ME TOCA LA PAGINA 42
 ###
 # Fundamentals Of Programming
 # Capítulo 1. Introduction to Programming 
@@ -78,4 +78,24 @@ Como empezar:
 
 * Determinar cuales son las salidas necesarias del programa
 * Hacer una lista paso a paso de como transformar las entradas en salidas, detallando todos los procesos necesarios para lograr esto. 
+
+Es importante también crear al menos un caso de prueba, donde se sigan los pasos uno a uno, y se hagan los calculos por tu cuenta, esto para asi comprobar que el algoritmo funciona bien.
+
+## Diagrama de flujo
+Es una representación gráfica de un algoritmo.
+Cada actividad o paso esta representada por un rectangulo. Dentro del rectangulo se pone una descripción breve del algoritmo. Ejemplo:
+
+![Diagrama de Flujo](img/algoritmo.jpeg)
+
+Con el diagrama de flujo y el algoritmo creado, el siguiente paso es programar la solución.
+
+## Crear un algoritmo Worksheet
+1.  Definir cual es el problema a resolver.
+2.  Definir que información conozco
+3.  Definir que puedo visulizar del problema. Imagenes, diagramas, gráficos, patrones, relaciones, ecuacioens, etc.
+4. Definir que información necesito del usuario
+5. Definir que información debe devolver mi algoritmo
+6. Escribir paso a paso que se hara, se puede hacer en pseudocode
+7. Crear valores de prueba y verificar a mano que resultados debe devolver el programa con esos valores.
+
 

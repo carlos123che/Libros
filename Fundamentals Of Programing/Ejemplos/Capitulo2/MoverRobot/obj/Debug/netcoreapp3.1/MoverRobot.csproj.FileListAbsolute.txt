@@ -1,0 +1,13 @@
+C:\Libros\Fundamentals Of Programing\Ejemplos\Capitulo2\MoverRobot\bin\Debug\netcoreapp3.1\MoverRobot.exe
+C:\Libros\Fundamentals Of Programing\Ejemplos\Capitulo2\MoverRobot\bin\Debug\netcoreapp3.1\MoverRobot.deps.json
+C:\Libros\Fundamentals Of Programing\Ejemplos\Capitulo2\MoverRobot\bin\Debug\netcoreapp3.1\MoverRobot.runtimeconfig.json
+C:\Libros\Fundamentals Of Programing\Ejemplos\Capitulo2\MoverRobot\bin\Debug\netcoreapp3.1\MoverRobot.runtimeconfig.dev.json
+C:\Libros\Fundamentals Of Programing\Ejemplos\Capitulo2\MoverRobot\bin\Debug\netcoreapp3.1\MoverRobot.dll
+C:\Libros\Fundamentals Of Programing\Ejemplos\Capitulo2\MoverRobot\bin\Debug\netcoreapp3.1\MoverRobot.pdb
+C:\Libros\Fundamentals Of Programing\Ejemplos\Capitulo2\MoverRobot\obj\Debug\netcoreapp3.1\MoverRobot.csproj.AssemblyReference.cache
+C:\Libros\Fundamentals Of Programing\Ejemplos\Capitulo2\MoverRobot\obj\Debug\netcoreapp3.1\MoverRobot.AssemblyInfoInputs.cache
+C:\Libros\Fundamentals Of Programing\Ejemplos\Capitulo2\MoverRobot\obj\Debug\netcoreapp3.1\MoverRobot.AssemblyInfo.cs
+C:\Libros\Fundamentals Of Programing\Ejemplos\Capitulo2\MoverRobot\obj\Debug\netcoreapp3.1\MoverRobot.csproj.CoreCompileInputs.cache
+C:\Libros\Fundamentals Of Programing\Ejemplos\Capitulo2\MoverRobot\obj\Debug\netcoreapp3.1\MoverRobot.dll
+C:\Libros\Fundamentals Of Programing\Ejemplos\Capitulo2\MoverRobot\obj\Debug\netcoreapp3.1\MoverRobot.pdb
+C:\Libros\Fundamentals Of Programing\Ejemplos\Capitulo2\MoverRobot\obj\Debug\netcoreapp3.1\MoverRobot.genruntimeconfig.cache

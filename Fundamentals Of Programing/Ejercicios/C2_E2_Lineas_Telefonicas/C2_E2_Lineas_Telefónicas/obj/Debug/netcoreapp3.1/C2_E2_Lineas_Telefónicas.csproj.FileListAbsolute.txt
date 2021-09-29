@@ -1,0 +1,13 @@
+C:\Libros\Fundamentals Of Programing\Ejercicios\C2_E2_Lineas_Telefonicas\C2_E2_Lineas_Telefónicas\bin\Debug\netcoreapp3.1\C2_E2_Lineas_Telefónicas.exe
+C:\Libros\Fundamentals Of Programing\Ejercicios\C2_E2_Lineas_Telefonicas\C2_E2_Lineas_Telefónicas\bin\Debug\netcoreapp3.1\C2_E2_Lineas_Telefónicas.deps.json
+C:\Libros\Fundamentals Of Programing\Ejercicios\C2_E2_Lineas_Telefonicas\C2_E2_Lineas_Telefónicas\bin\Debug\netcoreapp3.1\C2_E2_Lineas_Telefónicas.runtimeconfig.json
+C:\Libros\Fundamentals Of Programing\Ejercicios\C2_E2_Lineas_Telefonicas\C2_E2_Lineas_Telefónicas\bin\Debug\netcoreapp3.1\C2_E2_Lineas_Telefónicas.runtimeconfig.dev.json
+C:\Libros\Fundamentals Of Programing\Ejercicios\C2_E2_Lineas_Telefonicas\C2_E2_Lineas_Telefónicas\bin\Debug\netcoreapp3.1\C2_E2_Lineas_Telefónicas.dll
+C:\Libros\Fundamentals Of Programing\Ejercicios\C2_E2_Lineas_Telefonicas\C2_E2_Lineas_Telefónicas\bin\Debug\netcoreapp3.1\C2_E2_Lineas_Telefónicas.pdb
+C:\Libros\Fundamentals Of Programing\Ejercicios\C2_E2_Lineas_Telefonicas\C2_E2_Lineas_Telefónicas\obj\Debug\netcoreapp3.1\C2_E2_Lineas_Telefónicas.csproj.AssemblyReference.cache
+C:\Libros\Fundamentals Of Programing\Ejercicios\C2_E2_Lineas_Telefonicas\C2_E2_Lineas_Telefónicas\obj\Debug\netcoreapp3.1\C2_E2_Lineas_Telefónicas.AssemblyInfoInputs.cache
+C:\Libros\Fundamentals Of Programing\Ejercicios\C2_E2_Lineas_Telefonicas\C2_E2_Lineas_Telefónicas\obj\Debug\netcoreapp3.1\C2_E2_Lineas_Telefónicas.AssemblyInfo.cs
+C:\Libros\Fundamentals Of Programing\Ejercicios\C2_E2_Lineas_Telefonicas\C2_E2_Lineas_Telefónicas\obj\Debug\netcoreapp3.1\C2_E2_Lineas_Telefónicas.csproj.CoreCompileInputs.cache
+C:\Libros\Fundamentals Of Programing\Ejercicios\C2_E2_Lineas_Telefonicas\C2_E2_Lineas_Telefónicas\obj\Debug\netcoreapp3.1\C2_E2_Lineas_Telefónicas.dll
+C:\Libros\Fundamentals Of Programing\Ejercicios\C2_E2_Lineas_Telefonicas\C2_E2_Lineas_Telefónicas\obj\Debug\netcoreapp3.1\C2_E2_Lineas_Telefónicas.pdb
+C:\Libros\Fundamentals Of Programing\Ejercicios\C2_E2_Lineas_Telefonicas\C2_E2_Lineas_Telefónicas\obj\Debug\netcoreapp3.1\C2_E2_Lineas_Telefónicas.genruntimeconfig.cache
